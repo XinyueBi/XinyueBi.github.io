@@ -48,7 +48,7 @@ Jiacheng Cui<sup>*</sup>, **Xinyue Bi**<sup>*</sup>, Yaxin Luo, Xiaohan Zhao, Ji
 
 
 # 🎖 Honors and Awards
-- **2024–2026**, MBZUAI Graduate Fellowship (Full Scholarship)
+- **2025–2027**, MBZUAI Graduate Fellowship (Full Scholarship)
 
 # 📖 Educations
 - **2025.09 – 2027.06 (expected)**, Master of Science in Machine Learning, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE  
