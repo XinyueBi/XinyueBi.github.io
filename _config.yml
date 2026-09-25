@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyue Bi (毕馨月)"
-description              : "MSc student in Machine Learning at MBZUAI, working on dataset distillation and efficient learning."
+description              : "Dataset distillation and efficient learning"
 repository               : "XinyueBi/XinyueBi.github.io"
 google_scholar_stats_use_cdn : true
 
